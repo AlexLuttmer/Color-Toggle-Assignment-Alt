@@ -1,0 +1,60 @@
+.white-bckgr {
+    position: fixed;
+}
+
+.test {
+    position: absolute;
+}
+
+.grey-bckgr {
+    background-color: rgb(211, 207, 207);
+}
+
+.red-bckgr {
+    background-color: red;
+}
+
+.orange-bckgr {
+    background-color: orange;
+}
+
+.purple-bckgr {
+    background-color: purple;
+}
+
+.green-bckgr {
+    background-color: green;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;    
+    z-index: 1000;
+}
+
+#menu-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.drop-btns {
+    width: 240px;
+    height: 40px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: 3px;
+    text-align: center;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.menu-visi {
+    visibility: hidden;
+}
+
+
+
